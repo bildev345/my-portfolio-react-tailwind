@@ -17,7 +17,7 @@ const projects = [
        image : "/projects/dashboard-agrtravis.jpg",
        tags : ["HTML/CSS","Laravel", "Livewire", "MySQL"],
        demoUrl : "#",
-       githubUrl : "#"
+       githubUrl : "https://github.com/bildev345/ste_construction_agrtravis"
     },
     {
        id : 3,
