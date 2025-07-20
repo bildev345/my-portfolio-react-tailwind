@@ -26,7 +26,7 @@ const projects = [
        image : "/projects/dvlm.jpg",
        tags : ["C#", "ADO.net", "Microsoft Sql Server", "Winforms", "3-tier architecture"],
        demoUrl : "#",
-       githubUrl : "#"
+       githubUrl : "https://github.com/bildev345/driving-license-management"
     }
 ]
 
