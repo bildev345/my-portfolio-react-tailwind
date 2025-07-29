@@ -3,6 +3,15 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
     {
        id : 1,
+       title : "Vanlife app",
+       description : "Une application React permet d'approfondir dans la bibliothèque react router dom et surtout l'approche de data api layer ",
+       image : "/projects/vanlife.png",
+       tags : ["CSS","React", "Fetch api", "React Router", "Data api layer", "Miraje.js"],
+       demoUrl : "https://vanlife-app-eight.vercel.app/",
+       githubUrl : "https://github.com/bildev345/vanlife-app"
+    },
+    {
+       id : 2,
        title : "Gestion d'absences",
        description : "Une application web permet de digitaliser le processus de gestion d'absences avec React et Laravel ",
        image : "/projects/landing-page-background.webp",
@@ -11,7 +20,7 @@ const projects = [
        githubUrl : "#"
     },
     {
-       id : 2,
+       id : 3,
        title : "Gestion des chantiers",
        description : "Une application web en faveur d'une société de construction permettant d'informatiser les processus manuels de l'entreprise",
        image : "/projects/dashboard-agrtravis.jpg",
@@ -20,7 +29,7 @@ const projects = [
        githubUrl : "https://github.com/bildev345/ste_construction_agrtravis"
     },
     {
-       id : 3,
+       id : 4,
        title : "Gestion de permis de conduire",
        description : "Une application desktop pour la gestion des processus de soummission des permis de conduire et autres services",
        image : "/projects/dvlm.jpg",
