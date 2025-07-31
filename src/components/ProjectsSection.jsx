@@ -17,7 +17,7 @@ const projects = [
        image : "/projects/landing-page-background.webp",
        tags : ["HTML/Bootstrap","React", "Fetch api","Redux Toolkit" , "Laravel", "MySQL"],
        demoUrl : "#",
-       githubUrl : "#"
+       githubUrl : "https://github.com/bildev345/gestion_absence_react_laravel"
     },
     {
        id : 3,
